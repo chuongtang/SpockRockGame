@@ -14,8 +14,8 @@ This project is also mobile, responsive. 📱
 
 
 **New cool things that I learn:**
-1. To make any container looks mordern: use this CSS combination
-     *box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
-    *border-radius: 10px;
+1. To make any container looks mordern: use this CSS combination ☑️
+     * box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
+     * border-radius: 10px;
 2. The *switch statement* is used to perform different actions based on different conditions: https://www.w3schools.com/js/js_switch.asp
 3. Include *<type="module">* in the <script> element, to declare script as a *module*. This help clear the consusion of placing the JS scripts in order.
