@@ -1,4 +1,4 @@
-**Rock, paper, scissors, lizard, Spock.**
+##Rock, paper, scissors, lizard, Spock
 A game similar to rock, paper, scissors.
 
 see this big bang video: https://www.youtube.com/watch?v=405Nh2H4Ucg
